@@ -2,7 +2,7 @@ BokehVignette
 =============
 
 Reproduces artifacs asosiated with the vignetting of bokeh otherwise known as 'cat-eye' bokeh and 'cropped' bokeh.
-This method of creating has been updated and release in far better forms since i release this: I suggest you look at https://github.com/gillesvink/MagicDefocus
+This method of creating lens artifacts has been improved in far better forms since i release this by using sub-frames in nuke: I suggest you look at https://github.com/gillesvink/MagicDefocus
 
 licence
 ===========
